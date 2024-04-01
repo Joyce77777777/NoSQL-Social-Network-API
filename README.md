@@ -49,4 +49,4 @@ Each endpoint must include the necessary data in the request body or URL paramet
 - DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
 
 ## Repo Location
-This project is found here: 
+This project is found here: https://github.com/Joyce77777777/NoSQL-Social-Network-API
