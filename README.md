@@ -1,4 +1,4 @@
-NoSQL Social Network API 
+# NoSQL Social Network API 
 
 ## Assigned User Story:
 ```
