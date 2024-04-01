@@ -48,5 +48,8 @@ Each endpoint must include the necessary data in the request body or URL paramet
 - POST /api/users/:userId/friends/:friendId - add a friend to a user's friend list
 - DELETE /api/users/:userId/friends/:friendId - remove a friend from a user's friend list
 
+## Video Demo
+A demo of the functionality of this app can be found here: https://drive.google.com/file/d/1J4M3lNbuaxwY0u_GDu6Rq5RBvfIJNBXn/view
+
 ## Repo Location
 This project is found here: https://github.com/Joyce77777777/NoSQL-Social-Network-API
